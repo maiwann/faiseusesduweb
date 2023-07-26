@@ -3,4 +3,6 @@ title: Accueil
 ---
 # Faiseuses du Web
 
-La conférence trop trop cool !
+La conférence avec ds personnes chouettes !
+
+On se retrouve à Dinan :) 
